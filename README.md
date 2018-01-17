@@ -2,4 +2,4 @@
 
 Implementing machine learning code for classifier.
 
-Credits: https://www.youtube.com/watch?v=AoeEHqVSNOw (Google Devleloppers)
+Credits: https://www.youtube.com/watch?v=AoeEHqVSNOw (Google Devlelopers)
